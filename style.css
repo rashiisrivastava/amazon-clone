@@ -1,0 +1,246 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    margin:0%;
+}
+.navbar{
+    height:60px;
+    background-color:black;
+    color:white;
+    display: flex;
+}
+.navbar-logo{
+    height:50px;
+    width:130px;
+    margin-left:10px;
+    padding-bottom:10px;
+}
+.logo{
+    background-image:url("logo.jpeg");
+    background-size:cover;
+    height:50px;
+    width:130px;
+    
+}
+.navbar-logo{
+    border:1px solid transparent;
+}
+.navbar-logo:hover{
+    border:1px solid white;
+}
+.address{
+   padding-top: 10px;
+    height: 60px;
+    width: 80px;
+    padding-left: 25px;
+    margin-left:10px;
+}
+.address:hover{
+    height: 50px;
+    border:1px solid white;
+}
+.all{
+    width:40px;
+    height:40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:10px;
+    background-color: rgb(181, 179, 179);
+    
+}
+.search{
+    width: 650px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    width: 45px;
+    height: 41px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:orange ;
+    margin-right:20px;
+}
+#option{
+    background-color: white;
+}
+.flag{
+    margin-top: 25px;
+    height: 20px;
+    width: 30px;
+  
+}
+.flang{
+    padding-left:10px;
+    padding-right:10px;
+    margin-right: 10px;
+}
+.flang:hover{
+    border:1px solid white;
+}
+.language{
+    padding-top: 15px;
+    height: 35px;
+    width: 40px;
+    background-color: black;
+    color:white;
+    margin-right:10px;
+}
+#lang{
+    color:black;
+    background-color: white;
+}
+.hello{
+    padding-top: 10px;
+    margin-right: 20px;
+}
+.hello:hover{
+    border:1px solid white;
+}
+#dropdown{
+    width: 50px;
+}
+.signin{
+    width: 17px;
+    color:white;
+    background-color: black;
+    padding-left: 5px;
+}
+.return{
+    padding-top: 10px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 20px;
+}   
+.return:hover{
+    border:1px solid white;
+}
+#cart{
+    font-size: 25%;
+    padding-top: 20px;
+    font-size:18px;
+    height: 40px;
+    width: 60px;
+    padding-left:20px;
+}
+#cart:hover{
+    border:1px solid white;
+}
+.panel{
+    color:white;
+    background-color:#1c1c30;
+    height: 40px;
+    display: flex;
+}
+#text{
+    padding-top: 10px;
+    margin-left:30px;
+}
+#text:hover{
+    border:1px solid white;
+    padding-left: 2px;
+    padding-right: 2px;
+
+}
+.image_slides{
+    position: relative;
+    
+}
+.image_list{
+    display:flex;
+    height: 519px;
+    box-sizing: border-box;
+   
+}
+.shopping1{
+    display: flex;
+    background-color: rgb(255, 241, 190);
+    height:490px;
+    width: 1513px;
+    margin: 0%;
+    padding: 0%;
+    
+}
+.box1{
+    margin-top: 10px;
+    margin-left: 19px;
+    width: 310px;
+    height: 390px;
+    border: 2px solid rgb(255, 254, 254);  
+    padding: 20PX; 
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+#pic{
+    width:140px;
+    height: 130px;
+    padding:2px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+#link{
+    text-decoration: none;
+    font-size:16px ;
+    font-weight:lighter;
+    padding-top: 10px;
+}
+#link:hover{
+    color: orange;
+}
+#pic2{
+    width:310px;
+    height:330px;
+    
+}
+.shopping2{
+    background-color: rgb(255, 241, 190);
+    height: 400px;
+}
+.box2{
+    margin-left: 19px;
+    width: 1450px;
+    height: 250px;
+    border: 2px solid rgb(255, 254, 254);  
+    padding: 10PX; 
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+    
+}
+.section2{
+    display: flex;
+    padding-top: 20px;
+}
+.pic1{
+    padding-left: 37px;   
+}
+.pic1-img{
+    width:165px;
+    height:100px;
+}
+.shopping3{
+        display: flex;
+        background-color: rgb(255, 241, 190);
+        height:490px;
+        width: 1513px;
+        margin: 0%;
+        padding-top:35px;
+        
+}
+.navFooter{
+    margin-top:35px;
+    background-color:#1c1c30;
+    height:40px;
+    
+}
+.navFooterText{
+    display: block;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size:16px;
+
+}
+    
