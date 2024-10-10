@@ -3,6 +3,7 @@ This project is a clone of the Amazon website, built using HTML and CSS. The aim
 
 Features:
 Responsive design for different screen sizes
+
 Header section with navigation bar and search functionality
 Product listings with grid layout
 Footer with additional links
